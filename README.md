@@ -8,7 +8,7 @@
 
 また、「[A hyper-heuristic for improving the initial population of whale optimization algorithm](https://www.sciencedirect.com/science/article/abs/pii/S0950705119300632)」よりDEを使って、 Whale Optimization Algorithm (WOA)のopposition-based learning (OBL) とchaotic maps (CM)を制御して、WOAを改良しました。この論文から**ハイパーヒューリスティックはヒューリスティックスを制御することだけではなくて、ヒューリスティックスのパラメーターと仕組みも制御できることがわかりました。**
 
-そして、「[Hyper-heuristics: A survey and taxonomy](https://www.sciencedirect.com/science/article/pii/S0360835223008392)」から最近ハイパーヒューリスティックの研究動向を了解できました。ハイパーヒューリスティックの上層はメタヒューリスティックスと機械学習で構成することができます。そして、もしアルゴリズムAはある問題で性能がアルゴリズムBを超えている場合、アルゴリズムBは他の問題でアルゴリズムBを超えることができます。**このことよりハイパーヒューリスティックはよく多目的最適化に使われています。**
+そして、「[Hyper-heuristics: A survey and taxonomy](https://www.sciencedirect.com/science/article/pii/S0360835223008392)」から最近ハイパーヒューリスティックの研究動向を了解できました。ハイパーヒューリスティックの上層はメタヒューリスティックスと機械学習で構成することができます。そして、もしアルゴリズムAはある問題で性能がアルゴリズムBを超えている場合、アルゴリズムBは他の問題でアルゴリズムAを超えることができます。**このことよりハイパーヒューリスティックはよく多目的最適化に使われています。**
 
 ## ２、ハイパーヒューリスティックの今後の研究について
 
